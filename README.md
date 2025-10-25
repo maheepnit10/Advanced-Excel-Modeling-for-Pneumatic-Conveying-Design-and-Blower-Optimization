@@ -40,4 +40,15 @@ ________________________________________
 •	Link Excel model with real-time process data for dynamic monitoring.
 •	Expand to multi-line or multi-material conveying systems.
 •	Combine with MATLAB / Python for advanced simulation and validation.
+________________________________________
+👨‍💻 Author
+Maheep Nigam
+📍 Data & Business Analytics Enthusiast | Wealth and Trade RM @ ICICI Bank | Finance and Marketing Lead @ TEDx NIT Jalandhar | NIT JALANDHAR 2025
+📫 Email: maheepnigam02@gmail.com
+🔗 GitHub: @maheepnit10
+💼 LinkedIn: https://www.linkedin.com/in/maheep-n-999425232/
+________________________________________
+⭐ If you found this project insightful, don’t forget to star the repo on GitHub!
+“Turning data into decisions — one query at a time.”
+
 
